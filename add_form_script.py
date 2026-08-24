@@ -45,13 +45,3 @@ if "const GOOGLE_SCRIPT_URL" not in content:
     print("Đã tự động gắn mã Form Google Sheet và Zalo vào index.html thành công!")
 else:
     print("Mã script đã tồn tại trong file index.html từ trước!")
-```[cite: 1]
-
----
-
-**Các bước thực hiện tiếp theo:**
-
-1. Copy toàn bộ đoạn mã trên, dán đè vào file `add_form_script.py` rồi nhấn **Ctrl + S**.
-2. Mở Terminal trong VS Code và chạy lệnh:
-   ```bash
-   python add_form_script.py
