@@ -1,0 +1,25 @@
+/* Intro palette: preserves typography and layout while aligning the hero with the pink brand. */
+#BOX4 > .ladi-box {
+  background-color: #F8D7E5 !important;
+}
+
+#HEADLINE3 > .ladi-headline {
+  color: #A33B67 !important;
+}
+
+#HEADLINE5 > .ladi-headline,
+#HEADLINE6 > .ladi-headline,
+#HEADLINE7 > .ladi-headline {
+  background-image: linear-gradient(#FFF9FC, #F3B7D2) !important;
+  filter: drop-shadow(rgba(163, 59, 103, 0.55) 2px 2px 0) !important;
+  -webkit-text-stroke: 1px #A33B67;
+}
+
+#HEADLINE17 > .ladi-headline,
+#HEADLINE243 > .ladi-headline,
+#HEADLINE246 > .ladi-headline,
+#HEADLINE574 > .ladi-headline,
+#HEADLINE575 > .ladi-headline,
+#HEADLINE576 > .ladi-headline {
+  color: #A33B67 !important;
+}
