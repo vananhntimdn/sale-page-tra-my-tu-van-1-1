@@ -28,3 +28,8 @@
 #BUTTON_TEXT520 > .ladi-headline {
   color: #FFFFFF !important;
 }
+
+#HEADLINE664 > .ladi-headline,
+#HEADLINE653 > .ladi-headline {
+  text-shadow: 2px 2px 3px rgba(114, 20, 47, 0.78);
+}
