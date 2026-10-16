@@ -23,3 +23,8 @@
 #HEADLINE576 > .ladi-headline {
   color: #A33B67 !important;
 }
+
+#BUTTON_TEXT12 > .ladi-headline,
+#BUTTON_TEXT520 > .ladi-headline {
+  color: #FFFFFF !important;
+}
