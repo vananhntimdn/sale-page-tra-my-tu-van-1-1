@@ -11,8 +11,8 @@
 #HEADLINE6 > .ladi-headline,
 #HEADLINE7 > .ladi-headline {
   background-image: linear-gradient(#FFF9FC, #F3B7D2) !important;
-  filter: drop-shadow(rgba(163, 59, 103, 0.55) 2px 2px 0) !important;
-  -webkit-text-stroke: 1px #A33B67;
+  filter: drop-shadow(3px 2px 0 #8F2456) !important;
+  -webkit-text-stroke: 0;
 }
 
 #HEADLINE17 > .ladi-headline,
